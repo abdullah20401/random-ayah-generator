@@ -15,7 +15,7 @@ const Ayah = () => {
   const getAyah = () => {
     console.log('ran')
     let randomNum = Math.floor(Math.random() * 6236);
-    let url = `http://api.alquran.cloud/v1/ayah/${randomNum}/editions/quran-uthmani,en.sahih`;
+    let url = `https://api.alquran.cloud/v1/ayah/${randomNum}/editions/quran-uthmani,en.sahih`;
 
     fetch(url)
       .then((response) => response.json())

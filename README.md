@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🙌 Acknowledgments
 
 Thanks to the Quran API for providing accurate data.
-Inspired by the beauty of the Quʾrān and the desire to share its wisdom.
+Inspired by the beauty of the Qurʾān and the desire to share its wisdom.
